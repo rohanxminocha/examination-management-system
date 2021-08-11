@@ -1,7 +1,3 @@
-'''
-EXAMINATION MANAGEMENT PACKAGE
-'''
-
 from os import rename, remove
 from random import randint
 
@@ -551,3 +547,4 @@ while True:
     else:
         print('Thank You for visiting!')
         break
+        
